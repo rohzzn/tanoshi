@@ -2,7 +2,7 @@
     "name": "tanoshi",
     "displayName": "Tanoshi",
     "description": "🌸 Pleasant Dark Scheme",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "publisher":"RohanSanjeev",
     "repository": {
         "type": "git",
@@ -26,7 +26,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Rohan Sanjeev",
+                "label": "Tanoshi",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Rohan Sanjeev-color-theme.json"
             }
