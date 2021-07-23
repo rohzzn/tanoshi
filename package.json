@@ -1,0 +1,22 @@
+{
+    "name": "tanoshi",
+    "displayName": "Tanoshi",
+    "description": "Pleasent Dark theme",
+    "version": "0.0.1",
+    "publisher":"RohanSanjeev",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rohan Sanjeev",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rohan Sanjeev-color-theme.json"
+            }
+        ]
+    }
+}
