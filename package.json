@@ -1,0 +1,21 @@
+{
+    "name": "tanoshi",
+    "displayName": "Tanoshi",
+    "description": "Pleasant color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pleasent Dark theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pleasent Dark theme-color-theme.json"
+            }
+        ]
+    }
+}
