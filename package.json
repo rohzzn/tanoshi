@@ -1,13 +1,14 @@
 {
     "name": "tanoshi",
     "displayName": "Tanoshi",
-    "description": "Pleasent Dark theme",
+    "description": "🌸 Pleasant Dark Scheme",
     "version": "1.0.0",
     "publisher":"RohanSanjeev",
     "repository": {
         "type": "git",
         "url": "https://github.com/Calatop/Tanoshi"
     },
+    "icon": "images/Tanoshi.png",
     "keywords": [
         "theme",
         "tanoshi",
