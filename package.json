@@ -2,8 +2,20 @@
     "name": "tanoshi",
     "displayName": "Tanoshi",
     "description": "Pleasent Dark theme",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher":"RohanSanjeev",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Calatop/Tanoshi"
+    },
+    "keywords": [
+        "theme",
+        "tanoshi",
+        "dark",
+        "color",
+        "calatop",
+        "japanese theme"
+    ],
     "engines": {
         "vscode": "^1.58.0"
     },
