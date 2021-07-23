@@ -3,6 +3,19 @@
     "displayName": "Tanoshi",
     "description": "Pleasant color theme",
     "version": "0.0.1",
+    "publisher": "RohanSanjeev",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Calatop/Tanoshi"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "rohan sanjeev",
+        "calatop",
+        "tanoshi",
+        "japanese theme"
+    ],
     "engines": {
         "vscode": "^1.58.0"
     },
