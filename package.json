@@ -2,7 +2,7 @@
     "name": "tanoshi",
     "displayName": "Tanoshi",
     "description": "🌸 Pleasant Dark Scheme",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher":"RohanSanjeev",
     "repository": {
         "type": "git",
@@ -13,9 +13,8 @@
         "theme",
         "tanoshi",
         "dark",
-        "color",
-        "calatop",
-        "japanese theme"
+        "pink",
+        "calatop"
     ],
     "engines": {
         "vscode": "^1.58.0"
